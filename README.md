@@ -1,19 +1,17 @@
 # [Magento 2 Product Tabs Extension](https://magefan.com/magento-2/extensions/product-tabs) by Magefan
 
-<a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
-
-<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
-
-
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/28b407cef1668fd0bdd6f36db3e8e2f0/i/c/icon-product-tabs.webp">
 
-[Magento 2 Custom Product Tabs](https://magefan.com/magento-2/extensions/product-tabs) is an extension that allows you to extend the default Magento function and add multiple product tabs to Magento product tabs for more structured and organized content. This module enables you to create product tabs from the admin panel with no coding.
-Benefits
+[Magento 2 Product Tabs](https://magefan.com/magento-2/extensions/product-tabs) is an extension that helps you keep your product pages neat and organized. It allows you to extend the default Magento functionality and create custom product tabs without coding.
 
-<a href="https://magefan.com/magento-2/extensions/product-tabs"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento-2/extensions/product-tabs#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+Arrange all key product details into the smart product tabs. Make a customer journey informative and smooth!
 
-## Requirements
-  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
+Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
+
+<img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+
+<a href="https://magefan.com/magento-2/extensions/product-tabs"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/contact?question=request-free-trial&product_id=1879#contact-form-fields"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/free-trial.png"> 
+
   
 ## Benefits
 * Better customer engagement
@@ -22,40 +20,118 @@ Benefits
 
 ## Features
 
-### Create Custom Product Tabs from Admin Panel
+### Tidy Up Your Product Pages
 
-Since Magento offers you only 3 default product tabs - Details, Mode Information, and Reviews - you have to look for new ways to improve product page structure. Magento 2 Custom Product Tabs Page offers you to add multiple tabs to the product page just from the admin panel via the WYSIWYG editor. You don’t have to change any layouts, or templates or dive into the code. Improve customer experience and add handy tabs with no coding skills.
+We all know that informative product pages are the best product pages. Yet, your best intentions may lead to stuffed pages where it’s nearly impossible to find your way around.
+
+Tabs are effective instruments for tidying up your product pages. Using this Magento 2 Product Tabs tool, you can create dedicated tabs and fill them out with the essential details. The clearer the structure, the easier it is to interact with your products.
 
 <p align="center">
-  <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/catalog/add-custom-product-tab-magento.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-2-product-tabs.png">
 </p>
 
-### Add Specific Tabs for Specific Customers
+### Create Unlimited Product Tabs
 
-This solution allows you to define what customer groups will be able to see certain product tabs on product pages. You might have different delivery to tax terms for retail and wholesale merchants. To offer the best experience for your customers you have to target each with information that suits their specific needs. You can do that now with this Product Tabs Extension.
+Magento offers you only 3 default product tabs — Details, Mode Information, and Reviews. They are rarely enough to improve the product page structure. 
+
+The Magento 2 Product Tabs module allows you to create as many tabs as needed. What’s even better, you can create product tabs via the admin panel. No need to edit layouts, templates, or dive into the code. This extension has you fully covered!
 
 <p align="center">
-  <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/catalog/customer-group-based-product-tabs-magento.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-product-custom-tabs.png">
 </p>
 
+### Display Tabs for Specific Customers Groups
 
-### Define Dates to Display Custom Tabs
+Magento 2 customer groups help you create and distribute targeted offers. Thus, you may also need to display some tabs for a specific customer group only. Is that even possible?
 
-Having some specific offers or sales running and want to notify your customers about it in tabs? Don’t rush changing product page templates. You can set Date From and Date To and define a period when the custom product tab will be available. You can also set a Day of the Week and display the same product tabs only on certain days of the week. E.g. free shipping and delivery, “buy 2 get 3 free” offers, etc.
+It is if you have the Magento 2 Product Tabs extension. With its help, you can define what customer groups your tabs will be displayed for. This way, you can target specific customers and share with them relevant info.
 
-### Use Smart Conditions to Add Product Tabs
-
-Not all products in your store are the same. Each has a certain attribute set assigned to them and serves a certain purpose. Correspondingly you might need to display different information in product tabs for each set of products. 
-
-Magento 2 Custom Product Tabs Extension allows you to set conditions based on product attributes and display different product tabs on different product and category pages. You can use anything from size, color, gender, and weather to activity, attribute set, and other custom attributes.
+This is extremely convenient since your customers see only relevant details and don’t have to waste time figuring out whether or not an offer stands for them.
 
 <p align="center">
-  <img width="853" height="425" src="https://cm.magefan.com/mf_webp/png/media/catalog/magento-2-product-page-tabs-conditions.webp">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/magento-2-product-tabs-based-on-customer-groups.png">
+</p>
+
+### Schedule Product Tabs Display
+Do you notify your customers about special offers in tabs? And let us guess: you go and disable them manually once the sale’s finished. Moreover, you must edit the page templates and layout.
+
+What a hassle that is!
+
+With this product tabs tool, you can have this settled back at the tab creation stage! Just define when a tab should be displayed in the "Date From/Date To" and "Days Of The Week" fields, and the tab will be added and removed as per your settings.
+
+### Show Current Product Attributes
+
+It’s crucial to display all product related information cleanly and concisely. This will help customers see all the key details and make a decision faster.
+
+While the default Magento doesn’t have a quick option, the Magento 2 Product Tabs extension does. It allows you to add “Current Attribute” widgets to present relevant product details, such as:
+
+- Current Product Attribute Value
+- Current Product Attribute Label
+- Current Product Attributes (More Information)
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/current-product-attribute-magento.png">
+</p>
+
+### Display Product Tabs Using Smart Conditions
+
+When adding product tabs, you need to make sure their content is relevant. Correspondingly, different catalog items may require different tabs.
+
+The Magento 2 Product Tabs extension allows you to add product tabs based on the smart conditions. You need to define the combination of attributes and a tab will be added to the matching items only.
+
+This setup requires a few minutes at best but saves you from hours of manual editing you’ll have to do otherwise.
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/product-tab-conditions-magento.png">
 </p>
 
 ### Promote Related Products in Tabs
 
-Magento 2 Product Tabs Extension is completely compatible with the [Automatic Related Product Extension](https://magefan.com/magento-2-automatic-related-products). So you can promote your products closer to the top, just where customers can see them, in product tabs. It ensures your customers’ attention will swift to product tabs with related products and it convinces them to buy more from you.
+Showing product recommendations is an effective strategy to increase the average order value. At the same time, it’s important to place them in the right location to achieve the desired result. How about adding them to the tabs? 
+
+Magento 2 Product Tabs Extension is fully compatible with the Automatic Related Product Extension. Customers are more likely to open the tab than scroll to the bottom of the page. So, you can promote your products just where shoppers can see them. 
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/related-products-in-product-tabs-magento.png">
+</p>
+
+### Change Product Tabs Display Mode
+
+The main point of the product tabs is to provide clear and grouped product details. Yet, they also have to be convenient to use and fit into the general design of your store. 
+
+Together with the default view, this tool also offers the accordion display mode. It makes your tabs collapsible and opens them in a dropdown. It may be a better option to keep product pages both informative and decluttered.
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/catalog/magento-2-product-tabs-view.png">
+</p>
+
+### Edit Default Magento Product Tabs
+
+Magento comes with 3 default product tabs. However, they cannot fit each and every case. And what if you don’t want to show them at all?
+
+The Magento 2 Product Tabs extension allows you to rename, disable, and reorganize the default tabs. You can change their position and title, or remove them altogether. This gives you more flexibility to create the best version of your product page.
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/disable-rename-default-magento-product-tabs.png">
+</p>
+
+### Make Your Tabs Responsive Across All Devices
+
+One of the most important aspects of any content type is making it usable across different devices. Mobile shopping is at its prime so responsiveness is what you certainly have to pay attention to.
+
+This extension fully covers this aspect out of the box. All tabs you create are responsive and look presentable no matter what device shoppers use. There are no additional steps required from you. Just create the tabs and the module will do the rest!
+
+<p align="center">
+  <img width="853" height="425" src="https://cm.magefan.com/catalog/responsive-product-tabs-in-magento-2.png">
+</p>
+
+### Level Up Customer Experience
+It’s hard to overestimate the importance of the organized product pages. When you provide answers to all customers’ questions, they are more likely to proceed with the purchase.
+
+Besides, there’s no limit as to what content to display in the tabs. The Magento 2 Product Tabs extension allows you to add video, text, images, size charts, widgets, and literally anything! 
+
+Thus, you get a chance to create the most engaging content to enhance the shopping experience of your customers. 
+
 
 ## Demo
 
@@ -83,7 +159,7 @@ Try out our open demo and if you like our extension **please give us some star o
       <td align="center" valign="middle">
         <a href="https://pt.demo.magefan.top/admin/mfproducttabs/tab/">
           <img
-            src="https://magefan.com/static/version1520969775/frontend/Magefan/new/en_US/images/product-tab-demo-2.jpg"
+            src="https://cs.magefan.com/version1732118579/frontend/Magefan/next/en_US/Magefan_CssOptimizer/images/product-tab-demo-2.jpg"
             alt="Magento 2 Product Tabs Extension Admin Panel Demo"
             height="220"
           >
@@ -116,13 +192,6 @@ https://magefan.com/contact
 
 ## License
 The code is licensed under [EULA](https://magefan.com/end-user-license-agreement).
-
-## Documentation
-
-**General**
-* [How to install Magento 2 Custom Product Tabs Extension](https://magefan.com/magento-2/extensions/product-tabs/installation)
-* [How to update Magento 2 Custom Product Tabs Extension](https://magefan.com/magento-2/extensions/product-tabs/updating)
-* [How to uninstall Magento 2 Custom Product Tabs Extension](https://magefan.com/magento-2/extensions/product-tabs/uninstalling)
 
 ## [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
 
