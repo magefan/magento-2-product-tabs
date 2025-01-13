@@ -14,9 +14,17 @@ Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
   
 ## Benefits
-* Better customer engagement
-* More structured product page content
-* Increased conversions
+* [Tidy Up Your Product Pages](https://github.com/magefan/module-custom-product-tabs#tidy-up-your-product-pages)
+* [Create Unlimited Product Tabs](https://github.com/magefan/module-custom-product-tabs#create-unlimited-product-tabs)
+* [Display Tabs for Specific Customers Groups](https://github.com/magefan/module-custom-product-tabs#display-tabs-for-specific-customers-groups)
+* [Schedule Product Tabs Display](https://github.com/magefan/module-custom-product-tabs#schedule-product-tabs-display)
+* [Show Current Product Attributes](https://github.com/magefan/module-custom-product-tabs#show-current-product-attributes)
+* [Display Product Tabs Using Smart Conditions](https://github.com/magefan/module-custom-product-tabs#display-product-tabs-using-smart-conditions)
+* [Promote Related Products in Tabs](https://github.com/magefan/module-custom-product-tabs#promote-related-products-in-tabs)
+* [Change Product Tabs Display Mode](https://github.com/magefan/module-custom-product-tabs#change-product-tabs-display-mode)
+* [Edit Default Magento Product Tabs](https://github.com/magefan/module-custom-product-tabs#edit-default-magento-product-tabs)
+* [Make Your Tabs Responsive Across All Devices](https://github.com/magefan/module-custom-product-tabs#make-your-tabs-responsive-across-all-devices)
+* [Level Up Customer Experience](https://github.com/magefan/module-custom-product-tabs#level-up-customer-experience)
 
 ## Features
 
